@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1795227586 source:c:\users\hp\documents\assignment\electricity billing\main.c
+	<stdio.h>
+	<stdlib.h>
+
